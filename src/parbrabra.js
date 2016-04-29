@@ -1,7 +1,9 @@
 
-var parbrabra = function(numberOfDeck) {
+var parbrabra = function(input) {
 
-return {};
+  var isLegit = true;
+
+  return isLegit;
 };
 
 
